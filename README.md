@@ -28,4 +28,4 @@ I'm Patrick Furquim, a Employed by the municipal government passionate about com
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)(www.linkedin.com/in/patrick-furquim-668b83285)]
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/patrick-furquim-668b83285)
