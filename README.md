@@ -4,7 +4,9 @@ I'm Patrick Furquim, a Employed by the municipal government passionate about com
 
 ## 🚀 Featured Projects
 
-- [Educultivo🌱](https://github.com/Patrick-Furquim/Educultivo)
+- [Educultivo🌱](https://github.com/Patrick-Furquim/Educultivo);
+- [Memória Maluquinha🧩](https://github.com/Victor926/MemoriaMaluquinha);
+- [Gerenciador de Casamento👰](https://github.com/Victor926/GerenciadorDeCasamento).
 
 ## 🛠️ Skills
 
