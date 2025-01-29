@@ -17,9 +17,9 @@ I'm Patrick Furquim, a Employed by the municipal government passionate about com
 ![C Language](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
-## 📊 GitHub Stats
+## 📊 Main Projects
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Patrick-Furquim&show_icons=true&theme=radical)
+-[Hackaton IFTM 2024🤖](https://github.com/Patrick-Furquim/HackatonIFTM2024).
 
 ## 🌱 About Me
 
