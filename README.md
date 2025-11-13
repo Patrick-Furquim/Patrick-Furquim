@@ -8,7 +8,7 @@ I'm Patrick Furquim, a Employed by the municipal government passionate about com
 
 ## 🚀 Featured Projects
 
-- [Educultivo🌱](https://github.com/Patrick-Furquim/Educultivo);
+- [Eventura🏄](https://github.com/eventurasite/eventura);
 - [Memória Maluquinha🧩](https://github.com/Victor926/MemoriaMaluquinha);
 - [Gerenciador de Casamento👰](https://github.com/Victor926/GerenciadorDeCasamento).
 
@@ -26,7 +26,7 @@ I'm Patrick Furquim, a Employed by the municipal government passionate about com
 
 ## 📊 Main Projects
 
--[Hackaton IFTM 2024🤖](https://github.com/Patrick-Furquim/HackatonIFTM2024).
+-[Eventura🏄](https://github.com/eventurasite/eventura).
 
 ## 🌱 About Me
 
